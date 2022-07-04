@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="nishuang@10.236.12.182:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="nishuang@10.236.12.182:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/FMLP-Rec-master" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="nishuang@10.236.12.182:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
